@@ -1,13 +1,9 @@
-section{
+body{
     width: 850px;
-    background-color: white;
+    background-color: linen;
     text-align: center;
     margin-left: 200px;
     padding-bottom: 20px;
-}
-
-body{
-    background-color: linen;
 }
 
 h1{
