@@ -1,0 +1,16 @@
+section{
+    width: 850px;
+    background-color: white;
+    text-align: center;
+    margin-left: 200px;
+    padding-bottom: 20px;
+}
+
+body{
+    background-color: linen;
+}
+
+h1{
+    color: maroon;
+    margin-left: 40px;
+}
